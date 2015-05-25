@@ -1,5 +1,5 @@
 # node-ctc
-[![NPM version](https://img.shields.io/npm/v/node-ctc.svg?style=flat)](https://www.npmjs.org/package/node-ctc)
+[![NPM version](https://img.shields.io/npm/v/ctc.svg?style=flat)](https://www.npmjs.org/package/ctc)
 
 Chinese telegraph code convertor
 
