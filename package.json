@@ -1,5 +1,5 @@
 {
-  "name": "node-ctc",
+  "name": "ctc",
   "version": "0.1.0",
   "description": "Chinese telegraph code convertor",
   "main": "index.js",

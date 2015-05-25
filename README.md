@@ -8,12 +8,28 @@ Chinese telegraph code convertor
 ## Installation
 
 ```bash
-$ npm install node-ctc
+$ npm install ctc
 ```
 
 ## Example
 
-## Usage
+```js
+var convertor = require('ctc');
+
+var str = '呵呵哒';
+
+console.log(convertor.convert(str))
+// => 0725 0725 8174
+```
+
+```js
+var convertor = require('ctc');
+
+var str = '0725 0725 8174';
+
+console.log(convertor.convert(str))
+// => 呵呵哒
+```
 
 ## License
 
